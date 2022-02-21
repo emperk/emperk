@@ -6,12 +6,12 @@
 
 - 🔭 I’m currently working on developing very basic video games.
 - 🌱 I’m currently polishing my skills in React & Python and trying to learn C#.
-- 💬 Ask me about international travelling, anime, the MCU, or what new coding languages would be best to learn!
+- 💬 Ask me about true crime, international travelling, anime, the MCU, or what new coding languages would be best to learn!
 - 📫 How to reach me: 
   - Email: perkiemily@gmail.com
   - Linkedin: https://www.linkedin.com/in/emperk/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a photographic memory... but only for Marvel movie knowledge. 
+- ⚡ Fun fact: I have a photographic memory... but only for Marvel movie and true crime knowledge. 
 
 
 <!--
