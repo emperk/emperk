@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily Perkins</h1>
-<h3 align="center">Full Stack Web Developer | Front End Developer | True Crime & MCU fanatic</h3>
+<h3 align="center">Full Stack Web Developer | Front End Developer | True Crime Investigator | MCU fanatic</h3>
 
 - 🔭 I’m currently playing around with **video game coding**
 
